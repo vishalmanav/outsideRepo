@@ -1,1 +1,3 @@
-echo Hello
+echo "Usage: bzt [options] [configs] [-aliases]"
+echo
+echo "BlazeMeter Taurus Tool v1.13.7, the configuration-driven test running engine"
